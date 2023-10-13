@@ -4,7 +4,7 @@
 
 ‘밋플(Meetpl)’은 회의에서 겪는 불편함과 어려움을 발견하고, 팀 회의를 보다 효율적으로 개선할 수 있는 솔루션입니다.
 
-![Slide 16_9 - 2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/c1a3f18a-6a9c-4dc8-8b43-7cd8f2ab8d7f/Slide_16_9_-_2.png)
+![아이템포스터](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/7ac0a260-6e12-40e0-89d1-a2811ae12ffc)
 
 ---
 
@@ -50,7 +50,7 @@
 
 ## ‼️서비스 개요‼️
 
-![summary.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/f512ce44-fabc-46f7-923a-296ba870e026/summary.png)
+![summary](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/a7159f8b-a2eb-4c23-9e37-8a3699939993)
 
 # 👫목적 및 필요성
 
@@ -96,7 +96,7 @@
 
 **1) 회의에 대한 국내 직장인들의 인식**
 
-![22Untitled.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/1568142e-3355-4a08-97e0-d87a27fc0df8/22Untitled.png)
+![그래프](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/b106eea8-f8ce-4f94-9c5e-4b8ef65f901c)
 
 잡플래닛의 설문조사 결과에 따르면, **회의의 목적성을 알지 못하고 있는** 직장인이 총 40.5%를 차지하였으며, **회의시간에 대한 부정적인 의사** (회의가 비생산적이다)를 표명한 직장인은 70.3%으로 조사되었습니다.
 
@@ -148,7 +148,7 @@
 
 회의와 관련된 물품과 서비스의 검색량은, 보다 나은 회의를 추구하는 잠재고객의 규모를 반증하는 지표라고 판단하였습니다. 회의에 대한 사람들의 관심 수준을 파악하고, 넓은 표본 집단을 대상으로 객관적인 수치 자료를 얻기 위해 데이터 분석 사이트(네이버 데이터랩, 썸트렌드, 구글애널리틱스 등)를 활용하여 리서치를 진행하였습니다.
 
-![Untitled.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/152d4318-84e6-4edc-adbd-f6eb3301ebb7/Untitled.png)
+![검색량](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/5cee35a0-8e63-4cc2-96d6-ec2da77d5eef)
 
 수치로 보여지는 **검색량 추이를 확인하기 위해** 회의 관련 단어의 검색량을 비교해보았고, 회의 연관 검색어를 파악하여 회의에 대한 전반적인 인식을 파악하고자 하였습니다.
 
@@ -235,9 +235,9 @@
 
 ### 3️⃣TAM-SAM-SOM
 
-![Frame 17219.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/b13fabda-6970-4438-8eff-9ffb6729e467/Frame_17219.png)
+![t](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/8e344663-254b-48c4-b0fe-218fcc837538)
 
-![TAM-SAM-SOM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/195cb4ba-1fdc-4ba1-9bd9-658e9c32f4bb/TAM-SAM-SOM.png)
+![TAM-SAM-SOM](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/2da15170-2ba8-464e-bd0a-0d34d3e435f6)
 
 ### 4️⃣경쟁사 조사
 
@@ -268,7 +268,7 @@
 
 회의에서 어려움을 경험한 후, 문제점 개선의 필요성을 느낀 사람을 1차 타겟 고객으로 설정하며, 아래와 같이 점차 확장할 계획입니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/351ee6c4-299e-4864-b810-9a5ea3e8c21d/Untitled.png)
+![탃](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/241aa301-1df8-4f7d-acf3-e0ccf8928861)
 
 ## 🎯핵심 기능
 
@@ -295,20 +295,19 @@
 
 ---
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/c24044bf-7090-4554-a5a8-ac58d9f3c857/Untitled.png)
+![기능 확장 계획](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/1c4d12b2-b455-48fb-8163-f95080995239)
 
 # 📋메뉴구조도
 
 ---
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/37ec2a0b-53b9-46c3-b84c-0d5e3a6ae7b8/Untitled.png)
+![ia](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/5ccfa1c4-090d-4418-b0af-887024d57c5f)
 
 # 💵비즈니스 모델 설계
 
 ---
 
-![비즈니스모델.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/0fe4d0ef-bd4c-4f67-9819-e40dee3edf61/%E1%84%87%E1%85%B5%E1%84%8C%E1%85%B3%E1%84%82%E1%85%B5%E1%84%89%E1%85%B3%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF.png)
-
+![bm](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/8ebcf5d6-b752-469c-a9bb-2f24968a8a6f)
 # 👀디자인
 
 ---
@@ -340,9 +339,9 @@
 
 ## 🔖서비스 BI
 
-![로고중앙](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/96872852/c5b87757-188d-43c3-ae2a-9297f248c8aa)
-![밋플 로고 가로](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/96872852/d9c639e6-94fb-4870-a406-326b15a89927)
-![bi2](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/96872852/54f26486-3939-49e2-8bab-7669f09a98a0)
+![로고중앙](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/2fa07a5e-9dcb-4105-833d-fdd50e794c14)
+![밋플 로고 가로](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/fab9cbf3-8f72-49bd-9477-455ab994d8bb)
+![bi2](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/130367389/b119ec50-ffe9-43be-8bd5-fe94e2820d17)
 ![bi1](https://github.com/Kusitms-28th-MeetUp-C/Backend/assets/96872852/68f4f674-c377-4cac-b12a-14efdfd0138e)
 # 🧑🏻‍💻개발
 
