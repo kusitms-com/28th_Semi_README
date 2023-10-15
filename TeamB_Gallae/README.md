@@ -371,7 +371,7 @@
 <br><br>
 
 ## **🎨 디자인 무드보드**
-![Mood_board](./image/mood board.png)
+![Mood_board](./image/mood_board.png)
 
 
 <br><br>
