@@ -82,9 +82,9 @@
 
 이동봉사 신청 방식에 대한 국내, 해외 이동봉사 경험자 118명의 설문지 답변을 종합해본 결과, 약 82%가 “일정, 지역에 맞는 특정 이동봉사 공고를 선택하는 방식”이 아닌, “이동봉사 단체를 먼저 선택하는 방식”으로 이동봉사를 신청했지만, 약 84%는 하나의 플랫폼에서 이동 일정, 지역에 맞는 특정 유기견 공고를 신청하는 방식을 더 선호한다는 결과가 도출되었습니다.
 
-<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/898785a8-0980-4d8e-bc74-f3ba9266121e"  width="730">
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/80199502/1439c273-0c0c-4cbe-bdad-ef05f4188a1d"  width="850">
 
-<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/63611804/d44769a6-fa23-4996-b2d2-f963a3b4df49"  width="800">
+<img src="https://github.com/PawWithU/ConnectDog-AOS/assets/80199502/1e299973-c81c-4477-baf9-149e3f64d1a5"  width="850">
 
 <br>
 <br>
