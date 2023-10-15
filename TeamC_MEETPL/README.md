@@ -583,7 +583,7 @@
   - MySQL 데이터베이스의 관리와 운영 부담을 줄이고, 안정성, 가용성 및 보안을 향상시킬 수 있다.
 
 
--  <img src="https://img.shields.io/badge/Redis:Elastic Cache-DC382D?style=flat&logo=redis&logoColor=white"/>
+-  <img src="https://img.shields.io/badge/Elastic Cache-Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
     
    - 서로 분산된 서비스들 간의 동기화 데이터를 관리한다.
    - 서비스 교체로 인해 휘발 될 수 있는 데이터를 저장하는데 용의합니다.
