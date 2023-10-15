@@ -297,7 +297,8 @@
 <br><br>
 
 ## **🔍 System Architecture**
-<img width="1017" alt="스크린샷 2023-10-13 오후 3 42 07" src="https://github.com/KUSITMS-Team-A/.github/assets/50680955/1a848cb1-0685-4364-ad76-6332fab5a250">
+<img width="1143" alt="스크린샷 2023-10-15 오후 7 28 52" src="https://github.com/kusitms-com/28th_Semi_README/assets/58456758/fcb77460-75f0-4a5e-ae50-0b335247129f">
+
 
 <br><br>
 
