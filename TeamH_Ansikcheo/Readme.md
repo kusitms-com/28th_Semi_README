@@ -12,7 +12,6 @@
 
 ## 서비스 소개
 
----
 
 **집밥도착**은 해외에서 한식 집밥을 그리워하는 교민을 위한 서비스입니다.
 
@@ -53,7 +52,6 @@
 
 ## **목적 및 필요성**
 
----
 
 ### **1. 목적** 
 
@@ -107,7 +105,6 @@
 
 ## 리서치 및 시장조사
 
----
 
 ### **1. 경쟁사 분석**
 
@@ -196,7 +193,6 @@
 
 ## 서비스 타겟층 정의
 
----
 
 **1차 타겟 유저**
 
@@ -216,7 +212,6 @@
 
 ## 서비스 소개
 
----
 
 - **개요**
 
@@ -234,7 +229,6 @@
 
 ## 서비스 비즈니스 모델
 
----
 
 - **파트너사 연계 방안**
     
@@ -261,7 +255,6 @@
 
 ## 시스템 아키텍처
 
----
 
 ![아키텍쳐1](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/dd3abbcf-1b4c-418e-9758-f9ed845ed384)
 
@@ -270,7 +263,7 @@
 
 ## 기술스택
 
----
+
 - ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white)
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   ![Retrofit](https://img.shields.io/badge/Retrofit-%23009020)
@@ -295,7 +288,6 @@
 
 ## 파트별 스택 설명
 
----
 
 - **웹/안드로이드**
     - **retrofit2** - api 통신을 하기 위함
@@ -318,7 +310,6 @@
 
 ## 네이밍룰
 
----
 
 - 클래스 : **UpperCamelCase,** and·or와 같은 접속사를 사용하지 않고 25자 내외로 작성합니다.
 - 함수 : **lowerCamelCase**
@@ -333,7 +324,6 @@
 
 ## 커밋컨벤션
 
----
 
 `<Prefix>: #<Issue_Number> <Description>` 의 양식을 준수합니다.
 
@@ -353,7 +343,6 @@
 
 ## 깃 브랜치 전략
 
----
 
 - github flow  
 ![github-flow-branching-model](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/823aa485-5fb9-49f0-bbaa-7f417d30743b)
