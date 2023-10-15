@@ -1,5 +1,5 @@
 # 🌏 광장
-![표지](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/f59cf132-3ec2-487e-b6cf-eb254732db6f)
+![표지](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/9914be88-fc33-4649-be0c-3251fc4ecce5)
 
 ![표지2](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/28fcaf02-ea13-4f9c-906f-1e5176895f42)
 
@@ -210,8 +210,7 @@
 <br> 
 
 ### 📃서비스 구조도 (IA)
-
-![이미지7](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/fbd7e408-bf75-41ed-bf81-81a190214dd4)
+![IA](https://github.com/kusitms-com/28th_Semi_README/assets/110888511/fff2bd42-bebb-4187-baa8-f67f66c00f2e)
 
 <br>
 
